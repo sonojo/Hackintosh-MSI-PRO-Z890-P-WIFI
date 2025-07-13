@@ -9,6 +9,4 @@ Important to disable in the BIOS CFG LOCK, Secure Boot and Intel VT-d
 EFI Working woth no issues
 
 THANKS to MaLd0n, Technolli and Gabriel Luchina
-
-
-
+![Report](https://github.com/user-attachments/assets/b40ca891-1d90-4e28-bcad-621f74254e2a)
