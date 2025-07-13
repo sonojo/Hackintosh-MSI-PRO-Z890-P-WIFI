@@ -20,6 +20,8 @@ Important to disable in the BIOS CFG LOCK, Secure Boot and Intel VT-d
 
 EFI Working with no issues
 
+Very Important - Create your own SMBIOS
+
 THANKS to MaLd0n, Technolli and Gabriel Luchina
 ![Report](https://github.com/user-attachments/assets/b40ca891-1d90-4e28-bcad-621f74254e2a)
 ![MSI Z890-P Wifi 7](https://github.com/user-attachments/assets/335ed332-926d-4b72-9942-04856eb45bea)
