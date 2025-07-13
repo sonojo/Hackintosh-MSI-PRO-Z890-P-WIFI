@@ -1,8 +1,10 @@
 Hackintosh-MSI-Z890-P-Wifi 7
 
-Insane Hackintosh MSI Z890-P Wifi 7 - Intel Ultra 7 265K - 64GB RAM DDR5 5200MHZ 
+Insane Hackintosh MSI Z890-P Wifi 7 
 
-2TB Netcore NETNV2000ME5 - RX 6900 XT - Power Supply 1200W Galax
+Intel Ultra 7 265K - 64GB RAM DDR5 5200MHZ 
+
+2TB Netcore NETNV2000ME5 - RADEON RX 6900 XT - Power Supply 1200W Galax
 
 BIOS 7E34v1AA0 2025-07-11 
 
